@@ -1,0 +1,5 @@
+0
+"b'{""coord"":{""lon"":-64.79,""lat"":-23.81},""weather"":[{""id"":803,""main"":""Clouds"",""description"":""broken clouds"",""icon"":""04d""}],""base"":""m'"
+"b'odel"",""main"":{""temp"":79.74,""pressure"":1009,""humidity"":58,""temp_min"":79.74,""temp_max"":79.74,""sea_level"":1009,""grnd_level"":894},""w'"
+"b'ind"":{""speed"":5.17,""deg"":86},""clouds"":{""all"":58},""dt"":1572792467,""sys"":{""country"":""AR"",""sunrise"":1572773501,""sunset"":1572820421}'"
+"b',""timezone"":-10800,""id"":3846915,""name"":""Libertador General San Martin"",""cod"":200}'"
